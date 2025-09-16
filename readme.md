@@ -11,9 +11,10 @@
 <img width="803" height="178" alt="image" src="https://github.com/user-attachments/assets/d044cbc1-fe16-4bce-bbb3-bab94be05777" />
 
 <h2>Задание 3</h2> Программа деления числа n на L с использованием одной функции printf  и вывод
-результата в формате k цифр целой части и m - дробной
+результата в формате k цифр целой части и m - дробной<br>
 
 <img width="531" height="227" alt="image" src="https://github.com/user-attachments/assets/cd3320f7-c0ce-4fbf-8900-b5d059eda44b" />
+
 
 
 
